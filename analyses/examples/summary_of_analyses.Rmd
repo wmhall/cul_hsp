@@ -2,7 +2,7 @@
 title: "culture_study_hsp"
 author: "William Hall"
 date: "April 13, 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
