@@ -173,7 +173,7 @@ Testing mediation models
 
 The mediation model revealed evidence of significant mediation.
 
-![](../../plots/sit_interest.png)
+![](../../plots/sit_interest.PNG)
 
 | label |    est|    se|      z| pvalue    |
 |:------|------:|-----:|------:|:----------|
@@ -186,7 +186,7 @@ The mediation model revealed evidence of significant mediation.
 
 The mediation model revealed evidence of significant mediation.
 
-![](../../plots/trust_sit.png)
+![](../../plots/trust_sit.PNG)
 
 | label |    est|    se|      z| pvalue    |
 |:------|------:|-----:|------:|:----------|
@@ -199,7 +199,7 @@ The mediation model revealed evidence of significant mediation.
 
 The path model revealed evidence of a significant indirect path from condition to interest through trust and identity threat - see "ind" for the test of the indirect effect.
 
-![](../../plots/full_path.png)
+![](../../plots/full_path.PNG)
 
 | label |    est|    se|      z| pvalue    |
 |:------|------:|-----:|------:|:----------|
